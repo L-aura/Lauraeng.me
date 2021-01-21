@@ -1,0 +1,17 @@
+.banner {
+  background-color: #4d00FF;
+  color: white;
+  margin-top: 75px;
+  text-align: center;
+  padding: 100px 0;
+}
+
+#small-laura{
+  height:100px;
+  width:150px;
+}
+
+#Lora{
+  color: #4D00FF;
+  font-size: 100px;
+}
